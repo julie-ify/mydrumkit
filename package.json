@@ -1,0 +1,15 @@
+{
+  "name": "my-drumkit",
+  "version": "1.0.0",
+  "description": "drum kit",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Juliana Ifionu",
+  "license": "MIT",
+  "homepage": "https://julie-ify.github.io/mydrumkit",
+  "dependencies": {
+    "gh-pages": "^3.2.2"
+  }
+}
